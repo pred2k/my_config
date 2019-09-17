@@ -1,5 +1,12 @@
 # stuff i do on new systems
 
+
+## KeePassXC
+https://keepassxc.org/download/
+
+get gpg key to verify:  
+`gpg --recv-keys "BF5A 669F 2272 CF43 24C1  FDA8 CFB4 C216 6397 D0D2"`
+
 ## Firefox
 
 i'm using many of the recommended addons:
