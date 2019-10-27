@@ -18,7 +18,8 @@ https://www.privacy-handbuch.de/handbuch_21browser-schnell.htm
 
 ### Search Engines
 
-install **Qwant** (Lite), **Startpage** from https://mycroftproject.com/
+install **Qwant** (Lite), **Startpage** from https://mycroftproject.com/,
+https://www.kuketz-suche.de/
 
 ### Addons
 
@@ -26,8 +27,7 @@ install **Qwant** (Lite), **Startpage** from https://mycroftproject.com/
 - https://addons.mozilla.org/de/firefox/addon/cookie-autodelete/
 - https://addons.mozilla.org/de/firefox/addon/decentraleyes/
 - https://addons.mozilla.org/de/firefox/addon/https-everywhere/
-- https://addons.mozilla.org/de/firefox/addon/smart-referer/
+- https://addons.mozilla.org/de/firefox/addon/smart-referer/ (alternativ via about:config)
 - [I don't care about cookies](https://addons.mozilla.org/de/firefox/addon/i-dont-care-about-cookies/) by Kiko - because of **Cookie AutoDelete**, i don't care
 - [Neat URL](https://addons.mozilla.org/de/firefox/addon/neat-url/) by Geoffrey De Belie - fuck off utm-Parameters and affiliate links
-- [Invidition](https://addons.mozilla.org/de/firefox/addon/invidition/) by Booteille - and configure instance `https://invidious.nixnet.xyz/` (hosted in :de:, good SSL Labs result, offers `.onion`)
-- [Nitterify](https://addons.mozilla.org/de/firefox/addon/nitterify/) by Booteille
+- [Invidition](https://addons.mozilla.org/de/firefox/addon/invidition/) by Booteille - For Youtube to Invidious and Twitter tni Nitter replaces (hosted in :de:, good SSL Labs result, offers `.onion`)
